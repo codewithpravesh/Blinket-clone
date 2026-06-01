@@ -106,8 +106,8 @@ export default function Footer() {
                         
                         <div className='flex flex-wrap items-center justify-center gap-4'>
                             <h5 className='text-xl font-semibold text-black'>Download App</h5>
-                            <img src="/public/image1.png" alt="App Store" className="h-10 w-auto" />
-                            <img src="/public/image2.png" alt="Play Store" className="h-10 w-auto" />
+                            <img src="./image1.png" alt="App Store" className="h-10 w-auto" />
+                            <img src="./image2.png" alt="Play Store" className="h-10 w-auto" />
                         </div>
 
                         <div className='flex gap-3 text-white'>
