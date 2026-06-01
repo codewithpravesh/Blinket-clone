@@ -21,7 +21,7 @@ export default function Banner() {
         </div>
         
         <div className="overflow-hidden rounded-lg sm:rounded-xl shadow-sm">
-          <img src="./public/image04.jpg" alt="Promo 2" className="w-full h-auto object-cover hover:scale-105 transition-transform duration-300" />
+          <img src="./image04.jpg" alt="Promo 2" className="w-full h-auto object-cover hover:scale-105 transition-transform duration-300" />
         </div>
         
         <div className="overflow-hidden rounded-lg sm:rounded-xl shadow-sm">
